@@ -1,0 +1,4 @@
+oauth2_provider
+drf_social_oauth2
+python-dotenv
+django-cors-headers
